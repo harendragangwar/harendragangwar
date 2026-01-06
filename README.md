@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Harendra Gangwar, a Computer Science Engineering graduate passionate about building and learning software solutions and data
+Hi, I’m Harendra Gangwar, a Computer Science Engineering graduate passionate about building and learning software solutions
 
 
 ## 🌐 Socials:
